@@ -1,1 +1,87 @@
-...
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+  }
+  
+  textarea {
+    background: transparent;
+    border: none;
+    resize: none;
+    color: #000000;
+    border-left: 1px solid black;
+    padding: 10px;
+  }
+  
+  .description {
+    white-space: pre-wrap;
+  }
+  
+  .time-block {
+    border-radius: 15px;
+  }
+  
+  .row {
+    border-top: 1px solid white;
+  }
+  
+  .hour {
+    background-color: #ffffff;
+    color: #000000;
+    border-top: 1px dashed #000000;
+  }
+  
+  .past {
+    background-color: #ff6961;  /* Red */
+    color: white;
+  }
+  
+  /* Updated color for present time blocks */
+  .present {
+    background-color: #77dd77;  /* Green */
+    color: white;
+  }
+  
+  /* Updated color for future time blocks */
+  .future {
+    background-color: #d3d3d3;  /* Gray */
+    color: white;
+  }
+  
+  .saveBtn {
+    border-left: 1px solid black;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #06aed5;
+    color: white;
+  }
+  
+  .saveBtn i:hover {
+    font-size: 20px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input[type="date"] {
+    margin: 0 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button#loadArchive {
+    padding: 6px 12px;
+    background-color: #06aed5;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  button#loadArchive:hover {
+    background-color: #048ab4;
+  }
+  

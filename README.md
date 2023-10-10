@@ -3,6 +3,7 @@
 ## Introduction 📚
 
 The Work Day Task Manager is a web-based daily planner designed for business professionals. It allows users to allocate tasks from 9 a.m. to 5 p.m., with color-coded time blocks to indicate past, present, and future hours. Events are saved locally for persistence, and the app also offers an archival feature to revisit past schedules.
+
 ## Project Overview 🌐
 
 The primary goal is to offer an intuitive platform for planning and accessing tasks for any workday, with additional features for event persistence and past schedule archival.
@@ -64,7 +65,11 @@ The Work Day Scheduler app provides a straightforward platform for efficient wor
 
 ## APP Screenshot 🖼️
 
-![Screen-shot](./assets/images/work-day-scheduler.gif)
+![App-Demo](./assets/images/Work-task-manager.gif)
+
+## Live Demo 🌐
+A live demo of the project can be accessed [here](https://mrsep01.github.io/Work-Day-Task-Manager).
+
 
 ## License & Contribution 📜
 

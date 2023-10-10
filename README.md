@@ -66,7 +66,7 @@ The Work Day Scheduler app provides a straightforward platform for efficient wor
 
 ## APP Screenshot 🖼️
 
-![App-Demo](./assets/images/Work-task-manager.gif)
+![App-Demo](./assets/images/work-day-task-manager.png)
 
 ## Live Demo 🌐
 A live demo of the project can be accessed [here](https://mrsep01.github.io/Work-Day-Task-Manager).
